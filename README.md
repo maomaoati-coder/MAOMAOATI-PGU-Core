@@ -10,7 +10,9 @@ The core logic of the Physical Guard Unit (PGU) and the ATI Architecture is prot
 For commercial entities requiring private integration, proprietary use, or implementation that bypasses AGPL-3.0 requirements, a **Commercial Patent License** is required. 
 * **Contact**: GuanghuiMao (毛广辉)
 * **Email**: m91851746@gmail.com
-* **Financing**: Seed Round $50,000,000. View full brief at [brieflink.com/v/4khyz](https://brieflink.com/v/4khyz).
+* **Financing**:
+* Seed Round $50,000,000.
+* full brief at：[brieflink.com/v/4khyz](https://brieflink.com/v/4khyz).
 
 MAOMAOATI - PGU Core v1.0
 ## Description / 项目描述
