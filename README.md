@@ -9,7 +9,7 @@ Patent No / 专利号: 2026102132099
 Status: Substantive examination fees PAID on 2026-02-14.
 
 ## Contact / 联系方式
-Founder: Guanghui Mao (毛广辉)
+Founder: GuanghuiMao (毛广辉)
 
 Email: maomaoati@gmail.com
 
