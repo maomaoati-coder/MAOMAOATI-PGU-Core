@@ -1,3 +1,21 @@
+# ATI-Architecture-PGU-Sovereignty-Core
+
+## 👤 Founder Information
+**Guanghui Mao (毛广辉)**
+*CEO & Founder of ATI Architecture*
+Contact: m91851746@gmail.com
+
+## 🛡️ Technical Sovereignty: 3nm + 12nm Forksheet
+This repository provides the open-source interface standards for the **ATI Architecture**. 
+We focus on filling the "Physical Logic Vacuum" in AGI safety through hardware-level logic interception.
+
+- **PGU (Physical Governance Unit)**: Verified v2.1 core.
+- **Patent Shield**: No. 2026102132099 (Fees paid Feb 14, 2026).
+
+## 💰 Investment Opportunity
+We are currently open for **$50,000,000 Seed Funding** to scale physical sovereignty globally.
+**View Private Brief:** [https://brieflink.com/v/fep5h](https://brieflink.com/v/fep5h)
+
 # ATI Architecture: Securing AGI Physical Sovereignty
 **ATI 架构：捍卫通用人工智能的物理主权**
 
