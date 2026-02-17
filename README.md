@@ -1,3 +1,6 @@
+[![License](https://img.shields.io/badge/License-Proprietary-blue.svg)](LICENSE)
+[![Patent Protection](https://img.shields.io/badge/Patent-2026102132099-orange.svg)](https://brieflink.com/v/fep5h)
+
 # ATI-Architecture-PGU-Sovereignty-Core
 
 ## 👤 Founder Information
